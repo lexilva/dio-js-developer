@@ -18,9 +18,9 @@ let salarioLiquido = null;
 function calcularSalarioLiquido(salarioBruto,adicionalDeBeneficios){
     if(salarioBruto < 0){
         print('Valor Inválido!!!');
-    }else if (salarioBruto <= 11000){
+    }else if (salarioBruto <= 1100){
         salarioLiquido = (salarioBruto * 0.95) + adicionalDeBeneficios;
-    }else if(salarioBruto < 25000){
+    }else if(salarioBruto < 2500){
         salarioLiquido = (salarioBruto* 0.90)+ adicionalDeBeneficios;
     }else{
         salarioLiquido = (salarioBruto * 0.85) + adicionalDeBeneficios;

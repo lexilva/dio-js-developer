@@ -1,4 +1,4 @@
-const entradas =[32000,250];
+const entradas =[1200,250];
 let i = 0;
 function gets(){
    const valor = entradas[i];
