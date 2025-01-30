@@ -9,8 +9,16 @@ const pessoa = {
     }
 
 }
-
+/*
+Acesso Direto aos atributos do objeto
 pessoa.descrever = function(){
-    console.log(`Meu nome é ${this.nome}`);
+    console.log(`Meu nome é ${this.nome}`)
 }
-pessoa.descrever();
+pessoa.descrever();*/
+//Acesso dinâmico ao atributo idade do objeto
+const atributo = 'idade';
+console.log(pessoa[atributo]);
+
+//Acesso dinâmico ao atributo nome do objeto
+const atributo1 = 'nome';
+console.log(pessoa[atributo1]);

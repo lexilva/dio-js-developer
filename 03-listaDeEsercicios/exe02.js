@@ -5,8 +5,8 @@
 	IMC < 18.5 = a pessoa está aixo dopeso
 */
 
-const peso = 97;
-const altura = 1.72;
+const peso = 72;
+const altura = 1.70;
 const imc = peso/Math.pow(altura,2);
 
 
