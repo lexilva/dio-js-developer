@@ -57,9 +57,9 @@ Aqui estão minhas estatísticas do GitHub, refletindo o progresso e contribuiç
 
 ## 🌱 Vamos Conectar!
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-- [Instagram](https://www.instagram.com/seu-usuario/)
-- [Email](mailto:seu-email@exemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/alexsilvatech/)
+- [Instagram](https://www.instagram.com/lexilva/)
+- [Email](mailto:lexilva@gmail.com)
 
 ---
 
